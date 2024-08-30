@@ -1,0 +1,46 @@
+<?xml version="1.0"
+encoding="UTF-8" ?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://www.bolonius-ge.com</loc>
+<lastmod>2024-07-01</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.1</priority>
+</url>
+
+<url>
+<loc>https://www.bolonius-ge.com/index.html</loc>
+<lastmod>2024-07-01</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+
+<url>
+<loc>https://www.bolonius-ge.com/orientacion-laboral.html</loc>
+<lastmod>2024-07-01</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.4</priority>
+</url>
+
+<url>
+<loc>https://www.bolonius-ge.com/servicios.html</loc>
+<lastmod>2024-07-01</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.2</priority>
+</url>
+
+<url>
+<loc>https://www.bolonius-ge.com/formacion.html</loc>
+<lastmod>2024-07-01</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.6</priority>
+</url>
+
+<url>
+<loc>https://www.bolonius-ge.com/asesoria-legal.html</loc>
+<lastmod>2024-07-01</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+
+</urlset>

@@ -1,0 +1,19 @@
+
+
+{
+    "name" : "portal de empleo Bolonius",
+    "short_name" : "Bolonius",
+    "theme_color" : "#00b74f",
+    "background_color" : "#fff",
+    "display" : "standalone",
+    "orientation" : "portrait",
+    "scope" : "./",
+    "start_url" : "./",
+    "icons" : [
+        {
+            "src": "iconos/bolo.png",
+            "type" : "image/png",
+            "sizes" :"512x512"
+        }
+    ]
+}
